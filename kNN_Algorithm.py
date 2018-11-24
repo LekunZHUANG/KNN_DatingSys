@@ -1,3 +1,7 @@
+"""
+Title: The algorithem of K Nearest Neighbour
+Author:Lekun ZHUANG
+"""
 from numpy import *
 import operator
 
