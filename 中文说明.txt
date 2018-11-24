@@ -1,18 +1,23 @@
-ÕâÊÇÒ»¸öÊ¹ÓÃKÁÙ½üËã·¨À´¸Ä½øÔ¼»áÍøÕ¾Åä¶ÔÐ§¹ûµÄ³ÌÐò
-¼ÙÉèÔÚÄ³Ò»¸öÔ¼»áÍøÕ¾µÄµ÷²éÖÐ
-¶ÔÓÚ¿Í»§µÄµ÷ÑÐ½á¹ûÊý¾Ý´æ·ÅÔÚdataÎÄ¼þ¼ÐÀïµÄdatingTestSet.txtÖÐ
-(Êý¾ÝÑù±¾ÓÐÒ»Ç§Ìõ)
+"""
+Create:24 November,2018
+Author:Lekun ZHUANG
+Github:https://github.com/LekunZHUANG
+"""
+è¿™æ˜¯ä¸€ä¸ªä½¿ç”¨Kä¸´è¿‘ç®—æ³•æ¥æ”¹è¿›çº¦ä¼šç½‘ç«™é…å¯¹æ•ˆæžœçš„ç¨‹åº
+å‡è®¾åœ¨æŸä¸€ä¸ªçº¦ä¼šç½‘ç«™çš„è°ƒæŸ¥ä¸­
+å¯¹äºŽå®¢æˆ·çš„è°ƒç ”ç»“æžœæ•°æ®å­˜æ”¾åœ¨dataæ–‡ä»¶å¤¹é‡Œçš„datingTestSet.txtä¸­
+(æ•°æ®æ ·æœ¬æœ‰ä¸€åƒæ¡)
 
-¶ÔÓÚÔ¼»á¹ýµÄÈË,ÓÐÈýÖÖÀàÐÍ:
-    -²»Ï²»¶µÄÈË(not at all)                       1
-    -÷ÈÁ¦Ò»°ãµÄÈË(in small doses)                 2 
-    -¼«¾ß÷ÈÁ¦µÄÈË(in large doses)                 3
-¶Ô¶ÔÓÚÏàÓ¦µÄÌØÕ÷ÓÐ:
-    -Ã¿Äê»ñµÃµÄ·ÉÐÐ³£¿ÍÀï³ÌÊý
-    -Íæµç×ÓÓÎÏ·ËùºÄÊ±¼äµÄ°Ù·Ö±È
-    -Ã¿ÖÜÏû·ÑµÄ±ùä¿ÁÜ¹«ÉýÊý
+å¯¹äºŽçº¦ä¼šè¿‡çš„äºº,æœ‰ä¸‰ç§ç±»åž‹:
+    -ä¸å–œæ¬¢çš„äºº(not at all)                       1
+    -é­…åŠ›ä¸€èˆ¬çš„äºº(in small doses)                 2 
+    -æžå…·é­…åŠ›çš„äºº(in large doses)                 3
+å¯¹å¯¹äºŽç›¸åº”çš„ç‰¹å¾æœ‰:
+    -æ¯å¹´èŽ·å¾—çš„é£žè¡Œå¸¸å®¢é‡Œç¨‹æ•°
+    -çŽ©ç”µå­æ¸¸æˆæ‰€è€—æ—¶é—´çš„ç™¾åˆ†æ¯”
+    -æ¯å‘¨æ¶ˆè´¹çš„å†°æ·‡æ·‹å…¬å‡æ•°
 
 
-ÎÒÃÇµÄÄ¿µÄÊÇ¸ù¾ÝÕâÐ©Êý¾ÝÄ£Äâ³öÒ»¸ö·ÖÀàÆ÷
-µ±ÎÒÃÇ¶ÔÕâ¸ö·ÖÀàÆ÷ÊäÈëÄ³¸öÈËµÄÕâÈý¸öÌØÕ÷µÄÊ±ºò
-ÏµÍ³¿ÉÒÔ·µ»ØÎÒÃÇ¶ÔÕâ¸öÈËÏ²»¶³Ì¶ÈµÄÔ¤²â
+æˆ‘ä»¬çš„ç›®çš„æ˜¯æ ¹æ®è¿™äº›æ•°æ®æ¨¡æ‹Ÿå‡ºä¸€ä¸ªåˆ†ç±»å™¨
+å½“æˆ‘ä»¬å¯¹è¿™ä¸ªåˆ†ç±»å™¨è¾“å…¥æŸä¸ªäººçš„è¿™ä¸‰ä¸ªç‰¹å¾çš„æ—¶å€™
+ç³»ç»Ÿå¯ä»¥è¿”å›žæˆ‘ä»¬å¯¹è¿™ä¸ªäººå–œæ¬¢ç¨‹åº¦çš„é¢„æµ‹
