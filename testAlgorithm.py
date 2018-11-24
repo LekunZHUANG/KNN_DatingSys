@@ -1,3 +1,8 @@
+"""
+Create:24 November,2018
+Author:Lekun ZHUANG
+Github:https://github.com/LekunZHUANG
+"""
 from numpy import *
 
 def testshape():
