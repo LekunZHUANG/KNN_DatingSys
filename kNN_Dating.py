@@ -1,3 +1,7 @@
+"""
+Title:A classify machine of a dating website
+Author: Lekun ZHUANG
+"""
 from numpy import *
 import operator
 import matplotlib.pyplot as plt
