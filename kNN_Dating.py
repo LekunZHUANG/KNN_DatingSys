@@ -1,6 +1,7 @@
 """
-Title:A classify machine of a dating website
-Author: Lekun ZHUANG
+Create:24 November,2018
+Author:Lekun ZHUANG
+Github:https://github.com/LekunZHUANG
 """
 from numpy import *
 import operator
